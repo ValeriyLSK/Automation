@@ -46,7 +46,7 @@ public class CashbackHackServiceTest {
         int expected = 1000;
         assertEquals(expected, actual);
     }
-    
+
     @Test
     public void shouldFail() {
         int amount = 1000;
